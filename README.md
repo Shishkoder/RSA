@@ -6,7 +6,7 @@
 Переименуй мой класс User так, чтобы, если у тебя уже есть с классы с таким названием, ты не путался.
 
 Пользуйся:
-a.send_message(message: str, [public_1, public_2]) ------- чтобы зашифровать сообщение
+a.send_message(message: str, [public_1, public_2]) ------- чтобы зашифровать сообщение\n
 b.show_message(encode_message: str, [private_1, private_2]) ------- чтобы расшифровать сообщение.
 
 Примечание!!!
